@@ -1,5 +1,5 @@
 # 📊 OTT User Behavior Analysis — Dashboard Preview  
-![Dashboard Preview](https://github.com/aditya-dhumal-30/Ott_user_analysis_report/blob/be72b2805ff04c281ca3f07e28b2596381c47757/Screenshot%202025-11-21%20102123.png)
+![Dashboard Preview](https://github.com/aditya-3645/aditya-3645/blob/b244c5cecdbb228514926b0fb8995d691fccd0e0/Screenshot%202025-11-21%20102123.png)
 
 ---
 
