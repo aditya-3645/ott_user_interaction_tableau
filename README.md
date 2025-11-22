@@ -12,10 +12,10 @@ The objective is to build a robust analytical data model and an interactive **Ta
 ---
 
 ## 📁 Datasets  
-- <a href="https://github.com/aditya-dhumal-30/Ott_user_analysis_report/commit/a0dc9224ea2668ed4f0f7d83d897b6a3d5f0da24">**Watch History** – Session-level data: timestamps, session length, completion rate</a>
-- <a href="https://github.com/aditya-dhumal-30/Ott_user_analysis_report/blob/main/profiles.csv">**User Profiles** – Account attributes and demographic fields</a>
-- <a href="https://github.com/aditya-dhumal-30/Ott_user_analysis_report/blob/main/profile_preferred_genres.csv">**Profile Preferred Genres** – Genre-level preferences per user profile</a>
-- <a href="https://github.com/aditya-dhumal-30/Ott_user_analysis_report/blob/main/content_catalog.csv">**Content Catalog** – Metadata including genre, duration, release year, popularity</a>
+- <a href="https://github.com/aditya-3645/aditya-3645/blob/1ce57cb9b8b6fd485863a3dd05972f2f7f50db70/watch_history.csv">**Watch History** – Session-level data: timestamps, session length, completion rate</a>
+- <a href="https://github.com/aditya-3645/aditya-3645/blob/1ce57cb9b8b6fd485863a3dd05972f2f7f50db70/profiles.csv">**User Profiles** – Account attributes and demographic fields</a>
+- <a href="https://github.com/aditya-3645/aditya-3645/blob/1ce57cb9b8b6fd485863a3dd05972f2f7f50db70/profile_preferred_genres.csv">**Profile Preferred Genres** – Genre-level preferences per user profile</a>
+- <a href="https://github.com/aditya-3645/aditya-3645/blob/1ce57cb9b8b6fd485863a3dd05972f2f7f50db70/content_catalog.csv">**Content Catalog** – Metadata including genre, duration, release year, popularity</a>
   
 ---
 
