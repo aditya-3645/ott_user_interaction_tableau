@@ -12,18 +12,11 @@ The objective is to build a robust analytical data model and an interactive **Ta
 ---
 
 ## 📁 Datasets  
-- 📄 **Watch History** – Session-level data: timestamps, session length, completion rate  
-  ➤ https://github.com/aditya-dhumal-30/Ott_user_analysis_report/commit/a0dc9224ea2668ed4f0f7d83d897b6a3d5f0da24  
-
-- 👤 **User Profiles** – Account attributes and demographic fields  
-  ➤ https://github.com/aditya-dhumal-30/Ott_user_analysis_report/blob/main/profiles.csv  
-
-- 🎧 **Preferred Genres** – Genre-level preferences per user profile  
-  ➤ https://github.com/aditya-dhumal-30/Ott_user_analysis_report/blob/main/profile_preferred_genres.csv  
-
-- 🎬 **Content Catalog** – Metadata including genre, duration, release year, popularity  
-  ➤ https://github.com/aditya-dhumal-30/Ott_user_analysis_report/blob/main/content_catalog.csv  
-
+- <a src="">**Watch History** – Session-level data: timestamps, session length, completion rate</a>    
+- <a src="">**User Profiles** – Account attributes and demographic fields</a>   
+- <a src="">**Preferred Genres** – Genre-level preferences per user profile</a>
+- <a src="">**Content Catalog** – Metadata including genre, duration, release year, popularity</a>
+  
 ---
 
 ## 🚀 Project Highlights  
